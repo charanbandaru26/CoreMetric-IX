@@ -117,6 +117,21 @@ g++ -O3 main.cpp -o monitor
 ---
 
 ## 10. Screenshots
+### Core Metrics Dashboard
+
+![Core Metrics](screenshots/core-metrics.png.png)
+
+### Network Intelligence
+
+![Network Intelligence](screenshots/network-intelligence.png.png)
+
+### Processor Diagnostics
+
+![Processor Diagnostics](screenshots/processor-diagnostics.png.png)
+
+### Socket Stream
+
+![Socket Stream](screenshots/socket-stream.png.png)
 Verification screenshots and recordings of the system telemetry interfaces running in both light and dark themes are located under the artifacts walkthrough:
 
 - **Dashboard Dark Theme**: Fully loaded dashboard showing live network telemetry and processor diagnostics.
