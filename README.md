@@ -1,4 +1,13 @@
 # CoreMetric-IX
+<p align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=cplusplus)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
+![HTTP](https://img.shields.io/badge/HTTP-Embedded%20Server-success?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Real--Time-purple?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
 
 A high-performance, single-file C++ systems engineering tool that combines a multi-threaded embedded HTTP server, an asynchronous background hardware/network telemetry engine, and a premium real-time diagnostics dashboard.
 
